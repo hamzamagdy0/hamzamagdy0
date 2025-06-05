@@ -61,16 +61,16 @@ I'm always eager to explore real-world applications of code and collaborate on i
 - Learned **SAP programming** and enterprise-level software management systems.
 
 ### 🖥️ Software Projects  
-- 🔹 [**Task Management System**](https://github.com/hamzamagdy0/Task-Manager) *(PHP, MySQL, HTML/CSS, JS)*  
+🔹 [**Task Management System**](https://github.com/hamzamagdy0/Task-Manager) *(PHP, MySQL, HTML/CSS, JS)*  
   Web-based system with **role-based access control**, secure auth, task tracking, and dashboard using MVC architecture.
 
-- 🔹 [**University Advising System**](https://github.com/hamzamagdy0/University-Advising-System) *(C++, WinForms)*  
+🔹 [**University Advising System**](https://github.com/hamzamagdy0/University-Advising-System) *(C++, WinForms)*  
   Desktop advising platform for managing student schedules, GPA, and academic status with login roles and prerequisite validation.
 
-- 🔹 [**Otlob Clone App**](https://github.com/hamzamagdy0/Otlob-App-Clone-GUI) *(Java, CSS)*  
+🔹 [**Otlob Clone App**](https://github.com/hamzamagdy0/Otlob-App-Clone-GUI) *(Java, CSS)*  
   Mobile app concept mimicking Otlob/Talabat features for food ordering and admin management.
 
-- 🔹 [**Online Sabroso Restaurant Website**](https://github.com/hamzamagdy0/Online-Sabroso-Restaurant-Website) *(HTML, CSS, JS, Node.js, Express.js, MongoDB)*  
+🔹 [**Online Sabroso Restaurant Website**](https://github.com/hamzamagdy0/Online-Sabroso-Restaurant-Website) *(HTML, CSS, JS, Node.js, Express.js, MongoDB)*  
   Full-stack restaurant platform with admin dashboard, reservation system, product and order handling.
 
 ---
