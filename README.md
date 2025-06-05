@@ -48,7 +48,6 @@ I'm always eager to explore real-world applications of code and collaborate on i
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
 
@@ -98,8 +97,5 @@ I'm always eager to explore real-world applications of code and collaborate on i
   </a>
   <a href="mailto:hamzamagdy0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
-  </a>
-  <a href="https://github.com/hamzamagdy0" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> 
   </a>
 </p>
