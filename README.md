@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 I'm **Hamza Magdy**, a **Computer Science** student majoring in **Software Engineering** at **Misr International University (MIU)**.  
-Based in **Cairo, Egypt**, I'm passionate about **web development, backend systems, and scalable software design**.  
+Based in **Cairo, Egypt**.
 I'm always eager to explore real-world applications of code and collaborate on impactful tech projects.
 
 - 🎓 Pursuing a B.Sc. in **Computer Science** at **MIU** *(2022 - 2026)*  
