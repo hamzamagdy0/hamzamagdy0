@@ -113,7 +113,4 @@ Repo: https://github.com/hamzamagdy0/Online-Sabroso-Restaurant-Website
   <a href="https://www.linkedin.com/in/hamza-magdy" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
-  <a href="mailto:hamzamagdy0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
-  </a>
 </p>
