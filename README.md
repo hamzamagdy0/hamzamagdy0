@@ -12,16 +12,17 @@
 
 ### 🚀 About Me
 
-I'm **Hamza Magdy**, a **Computer Science** student majoring in **Software Engineering** at **Misr International University (MIU)**.  
+I'm **Hamza Magdy**, a **Computer Science student** majoring in **Software Engineering** at **Misr International University (MIU)**.  
 Based in **Cairo, Egypt**.
-I'm always eager to explore real-world applications of code and collaborate on impactful tech projects.
 
-- 🎓 Pursuing a B.Sc. in **Computer Science** at **MIU** *(2022 - 2026)*  
-- 💼 Completed a **Summer Internship** at **Al Mansour Automotive Group** *(SAP & enterprise systems)*  
-- 🌱 Currently diving deeper into **backend development, full-stack applications, and system design**  
-- 💡 Enthusiastic about **problem-solving, learning new technologies, and cross-functional collaboration**  
-- 🧠 Graduate of the **McKinsey Forward Program** (2024 Cohort)  
-- 📫 Reach me at [**hamzamagdy0@gmail.com**](mailto:hamzamagdy0@gmail.com)
+I enjoy building real-world software, exploring backend, systems, and full-stack engineering, and constantly expanding my skills through impactful projects and internships.
+
+- 🎓 B.Sc. in **Computer Science – Software Engineering**, **MIU** *(2022–2026)*
+- 💼 **IT Intern at Al Mansour Automotive Group** *(SAP, help desk – Summer 2024)*
+- 💼 **IT Intern at Ora Developers Egypt** *(Applications, Infrastructure, Support – Summer 2025)*
+- 🌱 Currently improving skills in **backend development, system design, and full-stack apps**
+- 🧠 **McKinsey Forward Program Graduate** *(2024 Cohort)*
+- 📫 **hamzamagdy0@gmail.com**
 
 ---
 
@@ -30,9 +31,9 @@ I'm always eager to explore real-world applications of code and collaborate on i
 ### 💻 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -42,50 +43,67 @@ I'm always eager to explore real-world applications of code and collaborate on i
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/-Active%20Directory-003366?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white">
+  <img src="https://img.shields.io/badge/-WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 </p>
-
 
 ---
 
-## 🧠 Projects & Experiences
+## 🧠 Projects & Experience
 
 ### 💼 Internships
-**Al Mansour Automotive Group** – Summer Intern *(Aug 2024 – Sept 2024)*  
-- Learned **SAP programming** and enterprise-level software management systems.
 
-### 🖥️ Software Projects  
-🔹 [**Task Management System**](https://github.com/hamzamagdy0/Task-Manager) *(PHP, MySQL, HTML/CSS, JS)*  
-  Web-based system with **role-based access control**, secure auth, task tracking, and dashboard using MVC architecture.
+#### **Ora Developers Egypt – IT Department Intern** *(Aug 2025 – Sept 2025)*  
+- Rotated across **Applications, Infrastructure, and Support** teams.  
+- Hands-on experience with:
+  - **Salesforce CRM** (lead-to-cash workflows, admin, development)  
+  - **Active Directory** & **Microsoft Exchange**  
+  - **Enterprise device compliance**  
+  - **Blazor (C#)** for interactive web UIs
 
-🔹 [**University Advising System**](https://github.com/hamzamagdy0/University-Advising-System) *(C++, WinForms)*  
-  Desktop advising platform for managing student schedules, GPA, and academic status with login roles and prerequisite validation.
+#### **Al Mansour Automotive Group – IT Intern** *(Aug 2024 – Sept 2024)*  
+- Gained foundational experience in **SAP**, ERP systems, and **service desk support**.
 
-🔹 [**Otlob Clone App**](https://github.com/hamzamagdy0/Otlob-App-Clone-GUI) *(Java, CSS)*  
-  Mobile app concept mimicking Otlob/Talabat features for food ordering and admin management.
+---
 
-🔹 [**Online Sabroso Restaurant Website**](https://github.com/hamzamagdy0/Online-Sabroso-Restaurant-Website) *(HTML, CSS, JS, Node.js, Express.js, MongoDB)*  
-  Full-stack restaurant platform with admin dashboard, reservation system, product and order handling.
+## 🖥️ Software Projects
+
+🔹 **Task Management System** *(PHP, MySQL, HTML/CSS, JS)*  
+- Full role-based task platform with authentication, dashboards, and MVC design.  
+- Applied **SOLID principles** and database-driven components.  
+Repo: https://github.com/hamzamagdy0/Task-Manager
+
+🔹 **University Advising System** *(C++, C# WinForms)*  
+- Built student & professor portals for GPA tracking, schedules, academic status, and prerequisite validation.  
+- Implemented efficient file-based data handling.  
+Repo: https://github.com/hamzamagdy0/University-Advising-System
+
+🔹 **Otlob / Talabat Clone Application** *(Java, CSS)*  
+- Food ordering app concept with UI features and admin functionalities.  
+Repo: https://github.com/hamzamagdy0/Otlob-App-Clone-GUI
+
+🔹 **Online Sabroso Restaurant Website** *(HTML, CSS, JS, Node.js, Express.js, MongoDB)*  
+- Online restaurant system with an admin panel, reservations, order management, and API testing using Postman.  
+Repo: https://github.com/hamzamagdy0/Online-Sabroso-Restaurant-Website
 
 ---
 
 ## 🏆 Extracurriculars & Certifications
 
+- 🧑‍💼 **Student Assistant – MIU Admission Sector** *(May 2025 – Jan 2026)*  
+  Supported data processing, applicant communication, and departmental coordination.
+
+- 🏛️ **Model United Nations Arab League (MUNAL)** *(Dec 2023 – Oct 2025)*  
+  - **Best Delegate – International Court of Justice**  
+  - IT Committee: app support, interview scheduling, website tools, results communication, and issue troubleshooting.
+
 - 🎓 **McKinsey Forward Program Graduate** *(Aug 2024 – Dec 2024)*  
-  Built skills in **critical thinking, problem-solving, communication, and leadership** through case-based learning.
-
-- 🏛️ **Model United Nations Arab League (MUNAL)**  
-  - **Best Delegate – International Court of Justice** *(Dec 2023 – Present)*  
-    Conducted legal research, authored briefs, and engaged in structured debates.  
-  - **IT Committee Member** – Managed app issues, scheduled interviews, built internal web tools, and supported club operations.
-
-- 🧑‍💼 **Student Assistant – MIU Admission Sector** *(May 2025 – Present)*  
-  Supporting administrative tasks, records organization, and applicant communication.
+  Developed skills in problem-solving, communication, adaptability, leadership, and digital proficiency.
 
 ---
 
